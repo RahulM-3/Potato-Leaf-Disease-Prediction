@@ -1,0 +1,6 @@
+tensorflow
+keras
+google-generativeai
+python-dotenv
+numpy
+pillow
